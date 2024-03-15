@@ -8,7 +8,7 @@ setup(
         # list your dependencies here
     ],
     author='Toby Killen',
-    author_email='itoby24@gmail.com',
+    author_email='',
     description='A small package to detect if a number is even.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
